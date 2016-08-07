@@ -20,4 +20,4 @@ before_install:
 
 install:
  - npm install -g angular-cli@webpack
- - ng init --style=scss
+ # - ng init --style=scss
