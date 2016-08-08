@@ -20,7 +20,7 @@ before_install:
 
 install:
  - npm install --no-optional
- # - npm install -g angular-cli@webpack
+ - npm install -g angular-cli@webpack
  # - rm -rf node_modules dist tmp typings
  # - npm install --save-dev angular-cli@webpack
  # - ng init --style=scss
